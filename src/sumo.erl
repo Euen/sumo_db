@@ -21,6 +21,8 @@
 -github("https://github.com/inaka").
 -license("Apache License 2.0").
 
+% test status details link
+
 %%% API for doc/schema manipulation.
 -export([
   new_schema/2,
