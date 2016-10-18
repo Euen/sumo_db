@@ -16,7 +16,7 @@
 %%% @end
 %%% @copyright Inaka <hello@inaka.net>
 %%%
--module(sumo_fail).
+-module(sumo).
 -author("Marcelo Gornstein <marcelog@gmail.com>").
 -github("https://github.com/inaka").
 -license("Apache License 2.0").
